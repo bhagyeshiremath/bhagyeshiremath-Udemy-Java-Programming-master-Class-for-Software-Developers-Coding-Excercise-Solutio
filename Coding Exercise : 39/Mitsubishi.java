@@ -8,16 +8,16 @@ public Mitsubishi extends Car
     @Override
     public void startEngine() 
     {
-        System.out.println("Ferrari.startEngine() called");
+        System.out.println("Mitsubishi.startEngine() called");
     }
     
-     public void accelatrate() 
+     public void accelerate() 
     {
-        System.out.println("Ferrari.startEngine() called");
+        System.out.println("Mitsubishi.accelerate() called");
     }
     
-     public void startEngine() 
+     public void brake() 
     {
-        System.out.println("Ferrari.startEngine() called");
+        System.out.println("Mitsubishi.brake() called");
     }
 }
